@@ -1,5 +1,0 @@
-deploy:
-- type: git
-  repo:
-- type: heroku
-  repo:
